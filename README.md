@@ -81,7 +81,7 @@
     <a href="https://open.spotify.com/user/NuguriLLL#gh-dark-mode-only"> 
         <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
     </a>
-    <a href="https://open.spotify.com/user/NuguriLLL#gh-light-mode-only"> 
+    <a href="https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW?si=f5a172668c9d404e#gh-light-mode-only"> 
         <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
     </a>
 </div>
