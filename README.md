@@ -1,6 +1,6 @@
 <h2> Hey there! I'm liao. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<a href="https://discord.gg/pochita"><img src="https://cdntwrunning.biji.co/600_d47522183ba30e19e9616b32967c39aa.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://pic1.zhimg.com/v2-f1c206ade6f6e994ffd7fdc16d663ca0_720w.jpg" width="100%" height="auto"/></a>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
