@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on aliens
 - 🤔 I’m looking for help with the bible
 - 💬 Ask me about future
-- 📫 How to reach me: liaozesheng2002@gmail.com
 - 😄 Pronouns: YaHA
 - ⚡ Fun fact: I have superpowers
 
@@ -25,7 +24,7 @@
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![java](https://img.shields.io/badge/-ja-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
