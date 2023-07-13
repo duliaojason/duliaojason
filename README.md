@@ -86,6 +86,18 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
 &nbsp; <a href="mailto:liaozesheng2002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+## 🎮 Try pressing the buttons and come back down
+
+<div style="background:white;">
+<img src="https://toy.aoaoao.me/image" width="300"/> 
+
+
+<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
+<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
+</div>
+
 ⭐️ From [duliaojason](https://github.com/duliaojason)
 
 <div align="center">
