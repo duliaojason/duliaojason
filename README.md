@@ -87,7 +87,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
 ⭐️ From [duliaojason](https://github.com/duliaojason)
 
 <div align="center">
-  <a href="[https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fit-is-just-joke-funny-letter-hand-drawn-lettering-illustration-humour-phrase_715046-3.jpg%3Fw%3D2000&tbnid=rE9lRmBjU0v7IM&vet=12ahUKEwjHo_fw6IqAAxXNLN4AHUcGAr0QMygAegUIARC-AQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fit-is-just-joke-funny-letter-hand-drawn-lettering-illustration-humour-phrase_31128725.htm&docid=J7k8qQaj5EP48M&w=2000&h=2000&q=just%20a%20joke&ved=2ahUKEwjHo_fw6IqAAxXNLN4AHUcGAr0QMygAegUIARC-AQ)https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fit-is-just-joke-funny-letter-hand-drawn-lettering-illustration-humour-phrase_715046-3.jpg%3Fw%3D2000&tbnid=rE9lRmBjU0v7IM&vet=12ahUKEwjHo_fw6IqAAxXNLN4AHUcGAr0QMygAegUIARC-AQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fit-is-just-joke-funny-letter-hand-drawn-lettering-illustration-humour-phrase_31128725.htm&docid=J7k8qQaj5EP48M&w=2000&h=2000&q=just%20a%20joke&ved=2ahUKEwjHo_fw6IqAAxXNLN4AHUcGAr0QMygAegUIARC-AQ" target="_blank" style="display: inline-block;">
+  <a href="https://img.freepik.com/premium-vector/it-is-just-joke-funny-letter-hand-drawn-lettering-illustration-humour-phrase_715046-3.jpg?w=1060" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
