@@ -75,6 +75,17 @@
 
 </br>
 
+- 🎧 Vibing to Tunes
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://open.spotify.com/user/12136120750#gh-dark-mode-only"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
+    </a>
+    <a href="https://open.spotify.com/user/12136120750#gh-light-mode-only"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
+    </a>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duliaojason&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">⚙ Statistics</h3>
