@@ -43,6 +43,8 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.svg) visitor, Thank You!
 
+[![Liao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duliaojason&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
