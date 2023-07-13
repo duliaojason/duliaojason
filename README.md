@@ -10,8 +10,8 @@
 - 💬 Ask me about future
 - 😄 Pronouns: YaHA
 - ⚡ Fun fact: I have superpowers
-- 
-- 
+- ☕ I believe, a perfect cup of "coffee" can be the ultimate solution for any stress
+- 🎓 Studying Data Science, computer programming and Mathematics
 
 <h3>🛠 Tech Stack</h3>
 
