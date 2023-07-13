@@ -66,7 +66,7 @@
 </tr>
 </table>
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://i.postimg.cc/VkmHtr1P/1.jpg"/>
 
 <br>
 
