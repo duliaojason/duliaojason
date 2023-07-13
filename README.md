@@ -10,6 +10,8 @@
 - 💬 Ask me about future
 - 😄 Pronouns: YaHA
 - ⚡ Fun fact: I have superpowers
+- 
+- 
 
 <h3>🛠 Tech Stack</h3>
 
