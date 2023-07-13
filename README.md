@@ -89,6 +89,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
 
 ## 🎮 Try pressing the buttons and come back down
 
+<img align="right" width="38%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQLExRozWseB60A11-5ijJEhaqVhVHKhfZg&usqp=CAU"/>
+
 <div style="background:white;">
 
 <br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/duliaojason"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
