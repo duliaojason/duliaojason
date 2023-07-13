@@ -86,7 +86,19 @@
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duliaojason&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duliaojason&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+        <p align="right">
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
+    </a>
+</div>
 
 <h3 align="left">⚙ Statistics</h3>
 <p align="center">
