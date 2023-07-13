@@ -89,7 +89,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
 
 ## 🎮 Try pressing the buttons and come back down
 
-<img align="right" width="38%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQLExRozWseB60A11-5ijJEhaqVhVHKhfZg&usqp=CAU"/>
+<img align="right" width="60%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQLExRozWseB60A11-5ijJEhaqVhVHKhfZg&usqp=CAU"/>
 
 <div style="background:white;">
 
