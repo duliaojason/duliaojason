@@ -78,9 +78,9 @@
 
 <h3 align="left">⚙ Statistics</h3>
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="https://i.postimg.cc/JtVZ92MH/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duliaojason&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="[WEBP/right.webp](https://i.postimg.cc/DwsnvYFy/right.webp)">
 </p>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.svg) visitor, Thank You!🎉🎉
