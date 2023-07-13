@@ -85,3 +85,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
 </p>
 
 ⭐️ From [duliaojason](https://github.com/duliaojason)
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+        align="center"
+    />
+  </a>
+</div>
