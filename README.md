@@ -133,4 +133,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.
   </a>
 </div>
 
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=445154960&type=2&auto=0&width=320&height=66" type="application/x-shockwave-flash"></object> 
+<audio src="https://music.163.com/#/song?id=1835283134" controls autoplay></audio>
+
