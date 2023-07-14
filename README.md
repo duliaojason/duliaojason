@@ -68,8 +68,6 @@
 </table>
 
 <img align="right" width="38%" src="https://i.postimg.cc/xTLbm467/0af9872e1841b9ea9433c644340e2ba.jpg"/>
-https://i.postimg.cc/xTLbm467/0af9872e1841b9ea9433c644340e2ba.jpg
-// https://i.postimg.cc/VkmHtr1P/1.jpg
 
 - 🎧 Vibing to Tunes
 <div>
