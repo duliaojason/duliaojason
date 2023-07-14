@@ -97,7 +97,7 @@
   <img height="150" width="150" src="https://i.postimg.cc/DwsnvYFy/right.webp">
 </p>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.svg) visitor, Thank You!🎉🎉
+Well, well, well. As you can see, you are my ![Visitor Count](https://profile-counter.glitch.me/duliaojason/count.svg) visitor, Thank You so much for coming to see me!🎉🎉
 
 [![Liao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duliaojason&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
